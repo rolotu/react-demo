@@ -72,8 +72,3 @@ body,
   height: 100%;
   background: pink;
 }
-
-.button:hover > svg > g {
-  fill: #ffffff;
-  stroke: #ffffff;
-}
